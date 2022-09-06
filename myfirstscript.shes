@@ -6,6 +6,7 @@ b=2
 
 echo "sum of two no's" $c
 echo "i love to write scripts"
+echo "love is a beautiful thing"
 
 
 
